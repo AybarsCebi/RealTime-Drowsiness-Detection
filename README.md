@@ -1,0 +1,3 @@
+The aim of this study was to outline a real-time driver drowsiness detection system and, on this basis, use computer vision and machine learning techniques. A systematic literature search was conducted, including empirical, theoretical, and methodological research, on driving styles related to driver drowsiness and CNNs. 
+
+A conceptual framework was proposed whereby using a convolutional neural network (CNN) trained to classify eye states as open or closed and integrating it with a live camera feed to monitor driver alertness. Moreover, the CNN model achieved an accuracy of 91%, along with precision, recall, and F1 scores of 92%, 91%, and 91%, respectively.
